@@ -1,3 +1,6 @@
+<img width="1889" height="936" alt="image" src="https://github.com/user-attachments/assets/9305f9fc-8a72-435e-aa4b-66518e5e9aca" />
+
+
 # DataJobs Platform – Job Market Intelligence System
 
 DataJobs Platform is a full-stack job analytics system that enables users to explore, query, and extract insights from a dataset of over **7 million job records**. It combines a FastAPI backend, Microsoft SQL Server database, and a React frontend to deliver data-driven insights such as salary trends, in-demand skills, and job distributions.
