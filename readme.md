@@ -1,4 +1,5 @@
-<img width="1889" height="936" alt="image" src="https://github.com/user-attachments/assets/9305f9fc-8a72-435e-aa4b-66518e5e9aca" />
+<img width="1915" height="971" alt="image" src="https://github.com/user-attachments/assets/aeb9f94c-77b2-47f2-9468-6fee67b5049d" />
+
 
 
 # DataJobs Platform – Job Market Intelligence System
